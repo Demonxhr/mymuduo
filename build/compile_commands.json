@@ -1,0 +1,72 @@
+[
+{
+  "directory": "/home/aa/chat/mymuduo/build",
+  "command": "/usr/bin/g++  -Dmymuduo_EXPORTS   -g -std=c++11 -g -fPIC   -o CMakeFiles/mymuduo.dir/Channel.o -c /home/aa/chat/mymuduo/Channel.cc",
+  "file": "/home/aa/chat/mymuduo/Channel.cc"
+},
+{
+  "directory": "/home/aa/chat/mymuduo/build",
+  "command": "/usr/bin/g++  -Dmymuduo_EXPORTS   -g -std=c++11 -g -fPIC   -o CMakeFiles/mymuduo.dir/CurrentThread.o -c /home/aa/chat/mymuduo/CurrentThread.cc",
+  "file": "/home/aa/chat/mymuduo/CurrentThread.cc"
+},
+{
+  "directory": "/home/aa/chat/mymuduo/build",
+  "command": "/usr/bin/g++  -Dmymuduo_EXPORTS   -g -std=c++11 -g -fPIC   -o CMakeFiles/mymuduo.dir/DefaultPoller.o -c /home/aa/chat/mymuduo/DefaultPoller.cc",
+  "file": "/home/aa/chat/mymuduo/DefaultPoller.cc"
+},
+{
+  "directory": "/home/aa/chat/mymuduo/build",
+  "command": "/usr/bin/g++  -Dmymuduo_EXPORTS   -g -std=c++11 -g -fPIC   -o CMakeFiles/mymuduo.dir/EPollPoller.o -c /home/aa/chat/mymuduo/EPollPoller.cc",
+  "file": "/home/aa/chat/mymuduo/EPollPoller.cc"
+},
+{
+  "directory": "/home/aa/chat/mymuduo/build",
+  "command": "/usr/bin/g++  -Dmymuduo_EXPORTS   -g -std=c++11 -g -fPIC   -o CMakeFiles/mymuduo.dir/EventLoop.o -c /home/aa/chat/mymuduo/EventLoop.cc",
+  "file": "/home/aa/chat/mymuduo/EventLoop.cc"
+},
+{
+  "directory": "/home/aa/chat/mymuduo/build",
+  "command": "/usr/bin/g++  -Dmymuduo_EXPORTS   -g -std=c++11 -g -fPIC   -o CMakeFiles/mymuduo.dir/EventLoopThread.o -c /home/aa/chat/mymuduo/EventLoopThread.cc",
+  "file": "/home/aa/chat/mymuduo/EventLoopThread.cc"
+},
+{
+  "directory": "/home/aa/chat/mymuduo/build",
+  "command": "/usr/bin/g++  -Dmymuduo_EXPORTS   -g -std=c++11 -g -fPIC   -o CMakeFiles/mymuduo.dir/EventLoopThreadPool.o -c /home/aa/chat/mymuduo/EventLoopThreadPool.cc",
+  "file": "/home/aa/chat/mymuduo/EventLoopThreadPool.cc"
+},
+{
+  "directory": "/home/aa/chat/mymuduo/build",
+  "command": "/usr/bin/g++  -Dmymuduo_EXPORTS   -g -std=c++11 -g -fPIC   -o CMakeFiles/mymuduo.dir/InetAddress.o -c /home/aa/chat/mymuduo/InetAddress.cc",
+  "file": "/home/aa/chat/mymuduo/InetAddress.cc"
+},
+{
+  "directory": "/home/aa/chat/mymuduo/build",
+  "command": "/usr/bin/g++  -Dmymuduo_EXPORTS   -g -std=c++11 -g -fPIC   -o CMakeFiles/mymuduo.dir/Logger.o -c /home/aa/chat/mymuduo/Logger.cc",
+  "file": "/home/aa/chat/mymuduo/Logger.cc"
+},
+{
+  "directory": "/home/aa/chat/mymuduo/build",
+  "command": "/usr/bin/g++  -Dmymuduo_EXPORTS   -g -std=c++11 -g -fPIC   -o CMakeFiles/mymuduo.dir/Poller.o -c /home/aa/chat/mymuduo/Poller.cc",
+  "file": "/home/aa/chat/mymuduo/Poller.cc"
+},
+{
+  "directory": "/home/aa/chat/mymuduo/build",
+  "command": "/usr/bin/g++  -Dmymuduo_EXPORTS   -g -std=c++11 -g -fPIC   -o CMakeFiles/mymuduo.dir/TcpServer.o -c /home/aa/chat/mymuduo/TcpServer.cc",
+  "file": "/home/aa/chat/mymuduo/TcpServer.cc"
+},
+{
+  "directory": "/home/aa/chat/mymuduo/build",
+  "command": "/usr/bin/g++  -Dmymuduo_EXPORTS   -g -std=c++11 -g -fPIC   -o CMakeFiles/mymuduo.dir/Thread.o -c /home/aa/chat/mymuduo/Thread.cc",
+  "file": "/home/aa/chat/mymuduo/Thread.cc"
+},
+{
+  "directory": "/home/aa/chat/mymuduo/build",
+  "command": "/usr/bin/g++  -Dmymuduo_EXPORTS   -g -std=c++11 -g -fPIC   -o CMakeFiles/mymuduo.dir/Timestamp.o -c /home/aa/chat/mymuduo/Timestamp.cc",
+  "file": "/home/aa/chat/mymuduo/Timestamp.cc"
+},
+{
+  "directory": "/home/aa/chat/mymuduo/build",
+  "command": "/usr/bin/g++  -Dmymuduo_EXPORTS   -g -std=c++11 -g -fPIC   -o CMakeFiles/mymuduo.dir/test.o -c /home/aa/chat/mymuduo/test.cpp",
+  "file": "/home/aa/chat/mymuduo/test.cpp"
+}
+]
